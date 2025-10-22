@@ -10,7 +10,7 @@
  - This tweak is mostly useful for bypassing iOS and app version requirements so you can continue to operate them easily on your older device.
 
  Notes:
- = The compiled deb 1.0.0 release spoofs app version to "11.79.1", you will need to compile it for yourself for the updated code which sets this hardcoded version number higher to be more versatile.
- = For compiling you will need the dependency 'AltList' for the preferences.
+ - The compiled deb 1.0.0 release spoofs app version to "11.79.1", you will need to compile it for yourself for the updated code which sets this hardcoded version number higher to be more versatile.
+ - For compiling you will need the dependency 'AltList' for the preferences.
 
 <img width="322" height="345" alt="image" src="https://github.com/user-attachments/assets/f7cce2b7-6f8e-4473-9ca6-07acace3bd5e" />
