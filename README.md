@@ -1,5 +1,6 @@
 # iOSVersionSpoofer
  Automatically spoofs your iOS version to recent versions based on the date automatically. It can also spoof app versions.
+ A jailbroken device is required or it may be possible to bundle within an app with default values set.
 
  - It is made in a way to spoof as many method/function call return values as possible, in short this means that more of the ways the version can be checked are spoofed (forged). This includes many methods from UIDevice, NSURLSession, and your User Agent.
  - It may not cover every single method call but the majority are spoofed.
