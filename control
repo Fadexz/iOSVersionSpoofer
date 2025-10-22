@@ -1,0 +1,9 @@
+Package: com.fadexz.osversionspoofer
+Name: OSVersionSpoofer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Spoofs iOS version in apps to the latest estimated version number based on date which allows for continued access from no longer supported versions in apps. It also spoofs anonymised unique device information to keep you from being tracked from previous sessions which can help prevent apps collecting data on you and blocking access.
+Maintainer: Fadexz <fadexz.au@outlook.com>
+Author: Fadexz <fadexz.au@outlook.com>
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
